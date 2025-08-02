@@ -1,0 +1,21 @@
+# Java and Maven
+*.class
+*.jar
+*.war
+*.log
+target/
+bin/
+
+# IDE settings
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Others
+*.swp

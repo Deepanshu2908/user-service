@@ -1,0 +1,8 @@
+com\escraze\userservice\controller\UserController.class
+com\escraze\userservice\service\UserService.class
+com\escraze\userservice\repository\UserRepository.class
+com\escraze\userservice\UserServiceApplication.class
+com\escraze\userservice\dto\LoginRequest.class
+com\escraze\userservice\entity\User$UserBuilder.class
+com\escraze\userservice\dto\RegisterRequest.class
+com\escraze\userservice\entity\User.class
