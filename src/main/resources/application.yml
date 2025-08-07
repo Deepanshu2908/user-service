@@ -10,7 +10,7 @@ spring:
   sql:
     init:
       mode: always
-      schema-locations: classpath:users_table.sql
+      schema-locations: classpath:esport_tables.sql
 
   jpa:
     hibernate:
